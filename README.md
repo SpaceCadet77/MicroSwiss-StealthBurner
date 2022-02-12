@@ -1,7 +1,9 @@
 # MicroSwiss-StealthBurner
-Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.
+Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.   
 
-![](Misc/img/stealthburnerred.jpg)   
+<img src="Misc/img/stealthburnerred.jpg" width="400" />
+
+
 
 
 ## Feb 12, 2022: 
