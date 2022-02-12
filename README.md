@@ -1,6 +1,9 @@
 # MicroSwiss-StealthBurner
 Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.
 
+![](MicroSwiss-StealthBurner/Misc/img/stealthburnerred.jpg)  // refrence_image 
+
+
 ## Feb 12, 2022: 
 - Will add vertical adjustment to Fan_System_V5.stl
 - Will edit threaded instert depths, as there isnt much room for squish-out 
