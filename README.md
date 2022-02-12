@@ -1,6 +1,10 @@
 # MicroSwiss-StealthBurner
 Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.
 
+## Feb 12, 2022: 
+- Added vertical adjustment to Fan_System_V5.stl
+- 
+
 ## Feb 11, 2022: 
 - Added Cable tie on right side (Fan_System_V5.stl)
 - Added solid extrusion to remove the front logo through hole. This is used in the case you do not want to add an LED logo. (Fan_System_V5.stl)
