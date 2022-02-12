@@ -7,8 +7,10 @@ Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder sys
 
 
 ## Feb 12, 2022: 
-- Will add vertical adjustment to Fan_System_V5.stl
-- Will edit threaded instert depths, as there isnt much room for squish-out 
+- Added vertical adjustment to Duct_System_V5.stl
+<img src="Misc/img/slots2.png" width="300" />
+- Added vertical adjustment holes to back_plate_mount_CRTouch_V5.stl.
+- Will edit threaded instert depths, as there isnt much room for squishout 
 
 ## Feb 11, 2022: 
 - Added Cable tie on right side (Fan_System_V5.stl)
