@@ -2,10 +2,10 @@
 Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.
 
 ## Feb 11, 2022: 
-- Added Cable tie on right side
-- Added solid extrusion to remove the front logo through hole. This is used in the case you do not want to add an LED logo. 
+- Added Cable tie on right side (Fan_System_V5.stl)
+- Added solid extrusion to remove the front logo through hole. This is used in the case you do not want to add an LED logo. (Fan_System_V5.stl)
 - Added Extrusion Knob V1
-- Removed sectioned required for clockwork 2, unneeded for this mod. 
+- Removed sectioned required for clockwork 2, unneeded for this mod. (Fan_System_V5.stl)
 
 Files:
 - back_plate_mount_CRTouch_V4.stl
