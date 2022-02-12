@@ -46,5 +46,7 @@ Notes:
 - The back plate and Duct System are currently attached with 4 M3*10 mm cap screws. This was to reduce a moment. After installation, it seams one screw on each side is sufficient.
 - The Duct System and Back Mounting Plate are designed to use M3 threaded insert's (Red).
 - There are 4 mounting locations (Green), I tapped the two wheel holes on the back mounting plate with a 1/4-20 tap. After mounting realized that's maybe a bit overkill, we'll see.
+<img src="Misc/img/backplatelow.jpg" width="400" / 
+     
 - After calibrating my CR-Touch, my offset was -1.94, But please don't trust this value, as yours will be different. Probe to Nozzle was around 44, and 7 mm. This is mounted with 2 M3 screws, I did not use threaded inserts for this, but simply tapped the PETG.
 - The Duct system currently requires supports for the top two "ears". I can probably redesign this with a 45 degree slope.
