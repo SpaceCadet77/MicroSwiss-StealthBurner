@@ -1,5 +1,5 @@
 # MicroSwiss-StealthBurner
-Voron StealthBurner Fan system adapter for a MicroSwiss Direct drive extruder system.
+Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.
 
 ## Feb 11, 2022: 
 - Added Cable tie on right side
