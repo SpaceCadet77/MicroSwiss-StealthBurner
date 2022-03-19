@@ -5,13 +5,16 @@ Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder sys
 
 ## Mar 19, 2022: 
 - Modified Fan_Sytem_V6, I have removed the bottom sections for Neopixels
-- Basically to clean it up if you arent using them
+- Basically to clean it up if you arent using them.
 <img src="Misc/img/v6mods.png" width="300" />
-- Added some cable managment
+- Added some cable managment.
+
 - Modified Duct_System_V6, by removing the inner splitter.
 - I suppose I get the original intent, but at this scale creates backpressure.  
 <img src="Misc/img/v6over.png" width="300" />
 
+- I have not printed these yet**
+- 
 ## Feb 12, 2022: 
 - Added vertical adjustment to Duct_System_V5.stl
 <img src="Misc/img/slots2.png" width="300" />
