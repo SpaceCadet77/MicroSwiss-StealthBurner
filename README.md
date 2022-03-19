@@ -5,7 +5,7 @@ Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder sys
 
 ## Mar 19, 2022: 
 - Modified Fan_Sytem_V6, I have removed the bottom sections for Neopixels
-- Basically to clean it up if you arent using them.
+- This is basically to clean it up if you arent using them, and to provide more room to view/work.
 <img src="Misc/img/v6mods.png" width="300" />
 - Added some cable managment.
 
