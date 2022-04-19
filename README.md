@@ -13,7 +13,7 @@ Printables: https://www.printables.com/model/157664-micro-swiss-stealthburner-be
 - Added through holes for wheel bolts
 - Changed mouting bolt location
 - File is Ender3V2PlateMountv1
-<img src="Misc/img/ender3v2mountv1.png" width="300" />
+<img src="Misc/img/ender3v2mountv2.png" width="300" />
 
 ## Mar 19, 2022: 
 - Modified Fan_Sytem_V6, I have removed the bottom sections for Neopixels
