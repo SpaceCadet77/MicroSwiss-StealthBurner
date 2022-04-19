@@ -7,6 +7,14 @@ Printables: https://www.printables.com/model/157664-micro-swiss-stealthburner-be
 
 <img src="Misc/img/stealthburnerred.jpg" width="400" />
 
+## Apr 18, 2022: 
+- Was asked for an Ender3V2 Mounting plate. I took the dimensions from an existing STP file on Thingiverse (https://www.thingiverse.com/thing:4573240)
+- If anyone is willing to test print/comment on changes
+- Added through holes for wheel bolts
+- Changed mouting bolt location
+- File is Ender3V2PlateMountv1
+<img src="Misc/img/ender3v2mountv1.png" width="300" />
+
 ## Mar 19, 2022: 
 - Modified Fan_Sytem_V6, I have removed the bottom sections for Neopixels
 - This is basically to clean it up if you arent using them, and to provide more room to view/work.
