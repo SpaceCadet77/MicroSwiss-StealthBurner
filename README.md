@@ -7,6 +7,14 @@ Printables: https://www.printables.com/model/157664-micro-swiss-stealthburner-be
 
 <img src="Misc/img/stealthburnerred.jpg" width="400" />
 
+## May 5, 2022:
+- Fixed height adjustment
+- Universal Mounting plate
+- Use bottom insert for better adjustment
+<img src="STL Files/Final Version/v7.png" width="300" />
+
+
+
 ## Apr 18, 2022: 
 - Was asked for an Ender3V2 Mounting plate. I took the dimensions from an existing STP file on Thingiverse (https://www.thingiverse.com/thing:4573240)
 - If anyone is willing to test print/comment on changes
