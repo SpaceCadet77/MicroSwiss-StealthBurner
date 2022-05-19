@@ -1,5 +1,5 @@
 # MicroSwiss-StealthBurner
-Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system.   
+Voron StealthBurner modified to work with a MicroSwiss Direct drive extruder system or Creality, Ender, CR-10 Printer.    
 
 Thingiverse: https://www.thingiverse.com/thing:5232759
 Printables: https://www.printables.com/model/157664-micro-swiss-stealthburner-beta
